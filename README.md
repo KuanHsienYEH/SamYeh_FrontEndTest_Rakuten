@@ -1,6 +1,6 @@
 # rakuten
 
-> AamYeh_FrontEndTest_Rakuten bulit by vue.js
+> SamYeh_FrontEndTest_Rakuten bulit by vue.js
 
 ## How to use?
 
