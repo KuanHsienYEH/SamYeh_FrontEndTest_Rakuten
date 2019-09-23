@@ -1,6 +1,6 @@
 # rakuten
 
-> A Vue.js project
+> AamYeh_FrontEndTest_Rakuten bulit by vue.js
 
 ## How to use?
 
