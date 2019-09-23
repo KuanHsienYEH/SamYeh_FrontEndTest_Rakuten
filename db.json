@@ -1,0 +1,10 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "phone": "typicode",
+      "email": "knigh@aaoo.com"
+    }
+  ]
+}
