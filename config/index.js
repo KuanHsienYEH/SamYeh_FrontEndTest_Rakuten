@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/SamYeh_FrontEndTest_Rakuten/dist/',
     proxyTable: {},
 
     // Various Dev Server settings
