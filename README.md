@@ -1,21 +1,17 @@
 # rakuten
 
-> A Vue.js project
+> SamYeh_FrontEndTest_Rakuten bulit by vue.js
 
-## Build Setup
+## How to use?
 
-``` bash
-# install dependencies
-npm install
+type in the name, phone and email to record the data.
+1. the Name value is unique.
+2. phone can be digit or + -
+3. email should contain a @ in email fomat
+4. click on green pen to edit the selected data on the input  
+5. click trash bin to delete the data
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Design principle
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+it's a simple director I came up with the color and brand color of Rakuten, 
+which shows simple and elegant. 
